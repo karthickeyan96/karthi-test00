@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;test.java&apos; to &apos;interface&apos;&#x0D;&#x0A;- Original project: &apos;looping&apos;&#x0D;&#x0A;- Destination element: &apos;interface&apos;&#x0D;&#x0A;- Original element: &apos;looping.test.java&apos;" description="Copy compilation unit" destination="=interface" element1="/src&lt;looping{test.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1555072827674" units="1" version="1.0"/>
+</session>

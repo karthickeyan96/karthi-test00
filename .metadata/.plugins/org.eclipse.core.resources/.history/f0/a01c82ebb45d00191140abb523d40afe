@@ -1,0 +1,5 @@
+package org.test.maven.Excel;
+
+public class SampleExcel {
+
+}
