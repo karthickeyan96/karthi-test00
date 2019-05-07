@@ -16,6 +16,7 @@ public class Switch {
 			default:
 				System.out.println("invalid choice");
 				break;
+				
 		}
 	}
 
